@@ -6,10 +6,19 @@
     <description>Recent content on Nipun Jaswal - International Infosec Author and Security Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2019 01:09:36 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 14:57:12 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accolades</title>
+      <link>/accolades/</link>
+      <pubDate>Tue, 08 Oct 2019 14:57:12 +0530</pubDate>
+      
+      <guid>/accolades/</guid>
+      <description>Awards  Award frm BRICS for Representing India and Securing the Second Position among the Five Nations Award from DSCI for Representing India at BRICS Future Skills 2018 Award of Excellence in Cyber Security , Awarded by National Cyber Defense and Research Center (http://www.ncdrc.res.in/awards-recognations.php) Technology Leadership Award, Awarded by Lovely Professional University (https://alumni.lpu.in/page/alumni-awardees-2018) Jury Award, Awarded by Ministry of External Affairs (MEA) at Smart India Hackathon-17 Winner, DSCI AISS 2017 Hackathon CTF Challenge (https://www.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +26,9 @@
       <pubDate>Tue, 08 Oct 2019 01:09:36 +0530</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
+      <description>Nipun Jaswal is an accomplished International Cyber Security Author and an award winning IT security researcher having a decade of experience in Red Teaming, Vulnerability Research, Reverse Engineering and Hardware Hacking.
+He is Currently one of the Director at Sempersol Pvt. Ltd., Syfor Technologies Pvt. Ltd and serves as the CISO for Council of Information Security. He is a Software Engineer and Holds Masters of Technology(M.tech) Degree from LPU.
+He has authored 8 English and 3 Chinese Books on Penetration Testing and Network Forensics.</description>
     </item>
     
   </channel>
