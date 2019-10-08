@@ -6,10 +6,21 @@
     <description>Recent content on Nipun Jaswal - International Infosec Author and Security Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2019 14:57:12 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 14:57:22 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>/books/</link>
+      <pubDate>Tue, 08 Oct 2019 14:57:22 +0530</pubDate>
+      
+      <guid>/books/</guid>
+      <description>English Books Following are the English Cyber Security Books, I have Authored.
+Topic: Metasploit Framework Metasploit is one of the Industry Leading tool when it comes to Penetration Testing, Vulnerability Assessment and Vulnerability Research
+Series: Mastering Metasploit Mastering Metasploit Series of Books started in 2014 with subsequent editions releasing in 2016, 2018 and the upcoming edition in 2020. Every Book in the release is different with content changes upto 70%</description>
+    </item>
     
     <item>
       <title>Accolades</title>
